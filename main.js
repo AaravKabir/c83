@@ -93,7 +93,7 @@ function my_mouseleave(e){
     mouse_event = "mouseleave";
 }
 
-function cleararea(){
+function clearArea(){
     ctx.clearRect(0,0,ctx.canvas.width,ctx.canvas.height);
 }
 
