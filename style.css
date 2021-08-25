@@ -1,6 +1,7 @@
 .body_backgorund {
     background-position: center;
     background-size: cover;
+    background-image: url("bg1.jpg");
   }
   body{
     cursor: pointer;
